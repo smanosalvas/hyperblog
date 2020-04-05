@@ -22,7 +22,7 @@ p{
 }
 
 header{
-    background-color: rgb(19, 6, 75);
+    background-color: rgb(99, 20, 20);
     height: 30px;
     margin-bottom: 20px;
     display: flex;
@@ -67,7 +67,7 @@ header ol li a{
 }
 
 footer{
-    background-color: rgb(19, 6, 75);
+    background-color: rgb(99, 20, 20);
     color: white;
     display: grid;
     grid-template-columns: 1fr 1fr;
