@@ -1,4 +1,21 @@
 body{
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+
+.container{
+    margin: 0 auto;
+    border: 1px solid black;
+    width: 800px;
+    padding: 10px;
+}
+
+h1{
+    color: rgb(3, 55, 71);
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+p{
+    margin: 0;
 }
