@@ -25,6 +25,8 @@ header{
     background-color: rgb(19, 6, 75);
     height: 30px;
     margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
 }
 
 header ol {
@@ -52,4 +54,14 @@ header ol li a{
     grid-template-rows: repeat(2,350px);
     gap: 10px;
     justify-content: center;
+}
+
+.logo-container{
+    margin-right: 20px;
+    width: 50px;
+    height: 100%;
+}
+
+.logo-container img{
+    height: inherit;
 }
